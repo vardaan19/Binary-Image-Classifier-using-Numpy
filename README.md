@@ -9,4 +9,4 @@ The function 'L_ layer_model' in Deep Neural Network.ipynb has been used to crea
 The main funactions that were used were forward propagation, back propagation , gradient decent.
 
 # Result
-My model has given an accuracy of 98.6 % on the training set and on the testing set I achived an accuracy of 80 %. 
+My model has given an accuracy of 98.6 % on the training set and on the testing set I achieved an accuracy of 80 %. 
